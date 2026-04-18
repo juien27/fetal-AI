@@ -134,5 +134,5 @@ After submitting the form, the model returns one of the following classes:
 - Deploy the application online
 
 ## Author
-Kajal Sankapal
+Juien Mujawar
 AIML Student
